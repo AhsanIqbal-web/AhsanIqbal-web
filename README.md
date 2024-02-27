@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming.
 - 🌱 I’m currently working as a Data Analyst. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. Here is my LinkedIn profile. https://www.linkedin.com/in/muhammad-ahsan-iqbal-45595b206/
+- 📫 How to reach me. Here is my LinkedIn profile.(https://www.linkedin.com/in/muhammad-ahsan-iqbal79/)
 
 <!---
 AhsanIqbal-web/AhsanIqbal-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
